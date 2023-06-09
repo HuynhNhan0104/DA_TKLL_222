@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PROJECT_DATKLL2.PrjPcb]
+   Generated File[PCB1_I2C_datkll.GTO]
+   Generated File[PCB1_I2C_datkll.GTP]
+   Generated File[PCB1_I2C_datkll.GTS]
+   Generated File[PCB1_I2C_datkll.GTL]
+   Generated File[PCB1_I2C_datkll.GBL]
+   Generated File[PCB1_I2C_datkll.GBS]
+   Generated File[PCB1_I2C_datkll.GBP]
+   Generated File[PCB1_I2C_datkll.GBO]
+   Generated File[PCB1_I2C_datkll.GM]
+   Generated File[PCB1_I2C_datkll.EXTREP]
+   Generated File[PCB1_I2C_datkll.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 7:36:34 PM On 6/5/2023

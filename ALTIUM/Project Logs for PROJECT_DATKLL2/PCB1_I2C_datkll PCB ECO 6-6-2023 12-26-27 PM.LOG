@@ -1,0 +1,16 @@
+Added Component: Designator=P3(HDR/Header/2)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=UART_RX Pin=P3-2
+Added Pin To Net: NetName=UART_RX Pin=U1-A9_1
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX Pin=P3-1
+Added Pin To Net: NetName=UART_TX Pin=U1-A9_2
+Added Net: Name=UART_TX
+Added Member To Class: ClassName=i2c_lcd_dht20 Member=Component LCD1 LCD 16x2
+Added Member To Class: ClassName=i2c_lcd_dht20 Member=Component P3 Header 2
+Added Member To Class: ClassName=i2c_lcd_dht20 Member=Component U1 NUCLEO-F103RB

@@ -1,0 +1,4 @@
+../Core/Src/fsm_system.c:10:6:Scan_Address_Device	24	static
+../Core/Src/fsm_system.c:19:6:Display_temp_humi	16	static
+../Core/Src/fsm_system.c:32:6:Init_system	16	static
+../Core/Src/fsm_system.c:48:6:fsm_system	24	static

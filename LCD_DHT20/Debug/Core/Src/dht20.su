@@ -1,0 +1,5 @@
+../Core/Src/dht20.c:9:13:DHT20_I2C_Delay	16	static
+../Core/Src/dht20.c:12:6:DHT20_I2C_Init	40	static
+../Core/Src/dht20.c:31:9:DHT20_I2C_ReadStatusByte	32	static
+../Core/Src/dht20.c:39:6:DHT20_I2C_TriggerMeasurement	32	static
+../Core/Src/dht20.c:48:6:DHT20_I2C_Read	48	static

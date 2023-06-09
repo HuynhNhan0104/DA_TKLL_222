@@ -1,0 +1,6 @@
+../Core/Src/scheduler.c:12:6:Scheduler_Init	24	static
+../Core/Src/scheduler.c:26:10:Scheduler_Add_Task	24	static
+../Core/Src/scheduler.c:49:6:Scheduler_Update	24	static
+../Core/Src/scheduler.c:65:6:Scheduler_Dispatch_Task	24	static
+../Core/Src/scheduler.c:77:10:Scheduler_Delete_Task	24	static
+../Core/Src/scheduler.c:103:6:Scheduler_Clear_Task	16	static

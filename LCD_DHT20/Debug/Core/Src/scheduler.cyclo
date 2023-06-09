@@ -1,0 +1,6 @@
+scheduler.c:12:6:Scheduler_Init	2
+scheduler.c:26:10:Scheduler_Add_Task	2
+scheduler.c:49:6:Scheduler_Update	4
+scheduler.c:65:6:Scheduler_Dispatch_Task	4
+scheduler.c:77:10:Scheduler_Delete_Task	4
+scheduler.c:103:6:Scheduler_Clear_Task	2
