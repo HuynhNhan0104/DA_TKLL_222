@@ -1,0 +1,15 @@
+Added Component: Designator=U1(NUCLEO)
+Add component (AddParameter): Name = "BRAND"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "NUCLEO-F103RB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = "NUCLEO-F103RB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = "497-14362-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "EVAL BRD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDA Pin=U1-A5_9
+Added Pin To Net: NetName=SCL Pin=U1-A5_10
+Added Pin To Net: NetName=+VCC Pin=U1-A6_5
+Added Pin To Net: NetName=GND Pin=U1-A6_6
+Added Pin To Net: NetName=UART_RX Pin=U1-A9_1
+Added Pin To Net: NetName=UART_TX Pin=U1-A9_2
+Added Member To Class: ClassName=i2c_lcd_dht20 Member=Component U1 NUCLEO-F103RB
